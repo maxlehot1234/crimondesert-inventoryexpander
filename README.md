@@ -85,7 +85,8 @@ English · Français · Español · 中文
 
 ## Credits
 
-Original concept and offset research by **kindiboy** (Inventory Expander mod). This GUI is a personal reimplementation built on top of that work.
+The original concept and offset research behind this tool is based on kindiboy's mod: Inventory Expander and on yukentseeme's mod: Inventory and Private Storage Expander - Json Mod Manager
+This GUI is a personal reimplementation built on top of that work. Full credit goes to kindiboy and yukentseeme for the initial discovery and the dynamic scan approach.
 
 ---
 
