@@ -6,6 +6,8 @@
 ## Download
 👉 **[Latest release](https://github.com/maxlehot1234/crimondesert-inventoryexpander/releases/latest)**
 
+Or here if you want to support me on Nexus Mods: https://www.nexusmods.com/crimsondesert/mods/67
+
 ---
 
 ## What it does
