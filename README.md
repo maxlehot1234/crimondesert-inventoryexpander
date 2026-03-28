@@ -40,6 +40,9 @@ Use the **Modify** checkbox at the top of each column to patch one section, the 
 
 > Custom values have been intentionally removed to prevent game crashes. All listed presets have been tested for stability.
 
+## Download
+👉 **[Latest release — v2.0.0](https://github.com/TON_USERNAME/CD-InventoryExpander/releases/latest)**
+
 ---
 
 ## Backup system
