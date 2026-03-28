@@ -3,6 +3,9 @@
 
 > ⚠️ **Steam version only.** Epic Games Store, console, and other distributions are not supported.
 
+## Download
+👉 **[Latest release](https://github.com/maxlehot1234/crimondesert-inventoryexpander/releases/latest)**
+
 ---
 
 ## What it does
@@ -40,9 +43,6 @@ Use the **Modify** checkbox at the top of each column to patch one section, the 
 
 > Custom values have been intentionally removed to prevent game crashes. All listed presets have been tested for stability.
 
-## Download
-👉 **[Latest release — v2.0.0](https://github.com/TON_USERNAME/CD-InventoryExpander/releases/latest)**
-
 ---
 
 ## Backup system
@@ -68,8 +68,8 @@ On next launch, a banner shows your last applied patch. Click **Re-apply** to re
 Requires [.NET 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and the [.NET SDK](https://dotnet.microsoft.com/download).
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/CD-InventoryExpander.git
-cd CD-InventoryExpander
+git clone https://github.com/maxlehot1234/crimondesert-inventoryexpander.git
+cd crimondesert-inventoryexpander
 dotnet build -c Release
 ```
 
