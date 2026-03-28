@@ -17,6 +17,15 @@ Patches values inside Crimson Desert's `0.paz` file to increase both **character
 Rather than relying on hardcoded file offsets (which break with every game update), the tool **dynamically scans** the `0.paz` file for the target signatures at runtime — so it continues to work after Pearl Abyss updates the game.
 
 ---
+## ℹ️ How the slot limit works
+
+The value you set acts as a hard cap — the game still counts bag purchases in the background, but your displayed slot count will never exceed your configured maximum.
+
+**Example:** if your max is set to 200 and you buy a bag that would normally give you slot 91, your inventory stays at 200. However, that purchase is still tracked internally. If you later restore vanilla values, you won't see 90 slots — you'll see 91, because that bag was counted all along.
+
+> 💡 **Removing the patch does not reset your progress** — it just lifts the cap and reveals the slots you already earned.
+
+---
 
 ## Presets
 
